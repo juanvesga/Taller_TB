@@ -4,7 +4,7 @@
 
 1) Siga el enlace siguiente para acceder al cuaderno de trabajo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juanvesga/TB_workshop/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juanvesga/Taller_TB.git/HEAD)
 
 2) Una vez acceda al cuaderno en JupyterLab, abra el archivo llamado  "practical_espa.ipynb". 
    
